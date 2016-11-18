@@ -1,6 +1,6 @@
 {
   "name": "react-easy-transition",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Easy transitions with React and React-router",
   "main": "lib/easy-transition",
   "files": [
